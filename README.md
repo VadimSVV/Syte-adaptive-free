@@ -1,3 +1,4 @@
 Адаптивный сайт
 
-Запустить: https://VadimSVV.github.io/Syte-adaptive-free/
+<a href="https://VadimSVV.github.io/Syte-adaptive-free" target="_blank">Запустить</a>
+
